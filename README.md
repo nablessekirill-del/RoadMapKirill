@@ -8,4 +8,6 @@
 
 ## Практика 9 + 10 блок - https://github.com/nablessekirill-del/block9_practice
 
-## Практика 12 блок - https://github.com/nablessekirill-del/block12_practice
+## Практика 2_1 блок - https://github.com/nablessekirill-del/block12_practice
+
+## Практика 2_2 блок - https://github.com/nablessekirill-del/block2_2_practice
