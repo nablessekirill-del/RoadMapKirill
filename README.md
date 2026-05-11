@@ -23,3 +23,5 @@
 ## Практика 2_8 (1) - https://github.com/nablessekirill-del/block2_8.1
 
 ## Практика 2_8 (2) - https://github.com/nablessekirill-del/block2_8.2
+
+## Практика 2_8 (3) - https://github.com/nablessekirill-del/block2_8.3
