@@ -15,3 +15,5 @@
 ## Практика 2_4 блок - https://github.com/nablessekirill-del/block2_4
 
 ## Практика 2_6 (1-2) - https://github.com/nablessekirill-del/block2_6
+
+## Практика 2_6 (3) - https://github.com/nablessekirill-del/block2_6.3
